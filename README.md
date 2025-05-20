@@ -31,5 +31,5 @@
 
 ### 📬 Contact Me!
 <p align="center">
-  Reach out via GitHub or any of my social links!
+ https://discord.gg/nexshop
 </p>
